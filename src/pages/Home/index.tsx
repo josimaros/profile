@@ -57,7 +57,7 @@ const Home: React.FC = () => {
                 <h6 className="mt-3 mb-2" style={{ fontSize: 24 }}>Habilidades</h6>
                 <p className="mt-3 mb-0 text-justify" style={{ height: '40%' }}>Aprenda sobre minhas habilidades em programação, encontre informações sobre meu conhecimento de idiomas e muito mais.</p>
                 <div className="mt-4 mb-0 " style={{ color: '#6ddb9a' }}>
-                  <a href="#" style={{ color: '#6ddb9a' }} className="d-flex align-items-center justify-content-center text-decoration-none"><div className="mr-4 w-100"> Saber mais</div> <RiArrowRightSLine size={24} /> </a></div>
+                  <a href="/" style={{ color: '#6ddb9a' }} className="d-flex align-items-center justify-content-center text-decoration-none"><div className="mr-4 w-100"> Saber mais</div> <RiArrowRightSLine size={24} /> </a></div>
               </div>
             </Col>
             <Col sm={12} lg={4} className="d-flex align-items-center justify-content-center">
@@ -66,7 +66,7 @@ const Home: React.FC = () => {
                 <h6 className="mt-3 mb-2" style={{ fontSize: 24 }}>Experiência</h6>
                 <p className="mt-3 mb-0 text-justify" style={{ height: '40%' }}>Conheça a linha do tempo de minha formação e saiba mais sobre minha experiência de trabalho.</p>
                 <div className="mt-4 mb-0 " style={{ color: '#6ddb9a' }}>
-                  <a href="#" style={{ color: '#6ddb9a' }} className="d-flex align-items-center justify-content-center text-decoration-none"><div className="mr-4 w-100"> Saber mais</div> <RiArrowRightSLine size={24} /> </a></div>
+                  <a href="/" style={{ color: '#6ddb9a' }} className="d-flex align-items-center justify-content-center text-decoration-none"><div className="mr-4 w-100"> Saber mais</div> <RiArrowRightSLine size={24} /> </a></div>
               </div>
             </Col>
             <Col sm={12} lg={4} className="d-flex align-items-center justify-content-center">
@@ -75,7 +75,7 @@ const Home: React.FC = () => {
                 <h6 className="mt-3 mb-2" style={{ fontSize: 24 }}>Portfólio</h6>
                 <p className="mt-3 mb-0 text-justify" style={{ height: '40%' }}>Meu portfólio é meu maior orgulho. Confira meus trabalhos anteriores e conheça melhor minhas habilidades.</p>
                 <div className="mt-4 mb-0 " style={{ color: '#6ddb9a' }}>
-                  <a href="#" style={{ color: '#6ddb9a' }} className="d-flex align-items-center justify-content-center text-decoration-none"><div className="mr-4 w-100"> Saber mais</div> <RiArrowRightSLine size={24} /> </a></div>
+                  <a href="/" style={{ color: '#6ddb9a' }} className="d-flex align-items-center justify-content-center text-decoration-none"><div className="mr-4 w-100"> Saber mais</div> <RiArrowRightSLine size={24} /> </a></div>
               </div>
             </Col>
           </div>

@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
 import React, { useEffect, useRef, InputHTMLAttributes } from 'react'
 import { Container } from './styles'
 import { useField } from '@unform/core'

@@ -1,5 +1,4 @@
 import styled from 'styled-components'
-import { Navbar } from 'react-bootstrap'
 
 export const Container = styled.nav`
   z-index: 10;
