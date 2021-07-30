@@ -25,7 +25,7 @@ const Home: React.FC = () => {
     // { email: 'test@example.com', password: '123456' }
   }
 
-  return (
+  return ( 
     <main>
       <Header />
 
